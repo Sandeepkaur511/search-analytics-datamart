@@ -24,7 +24,6 @@ Built a centralized, pre-aggregated datamart that serves as the **single source 
 
 ### Project Structure
 - `sql/sp_search_analytics.sql` → Main stored procedure (Daily/Weekly/Monthly)
-- `docs/BRD.md` → Business Requirement Document (clean version)
 
 ---
 
